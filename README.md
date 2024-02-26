@@ -43,3 +43,18 @@ Redemittle造句练习，随机给定一个Redemittel，说出一个例句来。
 
 ## 实践检验
 熟悉以后，尝试与德国人打电话，培训班这种，了解网络电话服务，能不能便宜地打国际长途
+
+# Udemy
+`````
+面试，个人发展
+https://www.udemy.com/user/salvatore-princi/
+https://www.udemy.com/user/julia-barden-2/
+https://www.udemy.com/user/falk-fleischer/
+
+https://www.udemy.com/course/deutsch-im-beruf/?couponCode=NVDPROD25
+
+js编程
+https://www.udemy.com/user/jonasschmedtmann/
+德语技术，编程
+https://www.udemy.com/user/jannis-seemann-3/
+`````
