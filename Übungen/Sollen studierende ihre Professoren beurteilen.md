@@ -68,10 +68,20 @@ Könnte einige Lehrer nicht kümmern, wenn es keine Folgen für sie hat
 
 `````
 In der Schweiz wird dies an vielen Schulen gemacht. Die meisten Rückmeldungen sind angemessen und konstruktiv. Entschieden schädlich wäre, wenn diese 'Zeugnisse' öffentlich gemacht würden. Die Lehrer erzählen deine Noten ja auch nicht im Quartier herum.
+
+Die Lehrer erzählen deine Noten ja auch nicht im Quartier herum.
+The teachers don't tell your grades around the neighborhood.
+老师也不会把你的成绩到处跟别人说吧。
 `````
 
 `````
 Viele Lehrer machen es bereits, dass sie sich zwischendurch das feedback der schüler einholen um sich zu verbessern
+`````
+
+`````
+die Rückmeldung = das Feedback
+angemessen 适当的，得体的
+schädlich 有毒的，有害的
 `````
 
 # https://www.gutefrage.net/frage/es-gibt-keine-schlechten-schueler-nur-schlechte-lehrer-lehrer-sagen-schueler-machen-mister-miyagi
@@ -108,4 +118,9 @@ Gruppenzwang.
 
 `````
 Strenge Lehrer werden bestraft, strenge Lehrer haben allerdings oft Klassen mit besseren Abschlüssen, sowie mehr Respekt in der Klasse.
+`````
+
+`````
+Review-Bombing 差评轰炸
+unsachlich 感情用事的，不客观的
 `````
